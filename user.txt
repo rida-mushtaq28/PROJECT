@@ -1,0 +1,2 @@
+rida,12345,customer
+mushtaq,12345,owner
